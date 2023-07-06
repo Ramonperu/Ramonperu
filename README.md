@@ -2,7 +2,7 @@
 
 
 
-![](C:\Users\Ramon\Ramonperu\README\21116158daaeb1459b4ec0758505e1ad.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhvcWlpOTU4ZmpnYWowNWFtOHQzamRhdjVnOWtsMHR5NDd1bHUzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ramonpr/">
