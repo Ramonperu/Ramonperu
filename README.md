@@ -1,12 +1,12 @@
-<div id="header" align="center">
+  <div align="center">
 <h1>
-    Hey there I'm Ramón<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there I am Ramón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"" />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRjMGVwNjFuZHFrc2V5bTNwN3htNmRoZ2dtMTdrbXY1b3gybDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ramonpr/">
