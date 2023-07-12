@@ -5,9 +5,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRjMGVwNjFuZHFrc2V5bTNwN3htNmRoZ2dtMTdrbXY1b3gybDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
-
 <div align="left">
-- 🌱 I’m currently learning PHP/Laravel and Golang
+- 🌱 I’m currently learning Phyton
 
 </div>
 
