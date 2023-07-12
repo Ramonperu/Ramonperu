@@ -6,9 +6,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRjMGVwNjFuZHFrc2V5bTNwN3htNmRoZ2dtMTdrbXY1b3gybDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
-
-- 🌱 I’m currently learning PHP/Laravel and Golang
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ramonpr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,5 +21,6 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powershell.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/virtualbox.svg" />
+- 🌱 I’m currently learning PHP/Laravel and Golang
 
 
