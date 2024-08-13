@@ -7,7 +7,7 @@
 </div>
 <div align="left">
     - 🌱 I’m currently studying Cybersecurity.
- <p> -Check my lists:</p>
+ <p> - Check my lists:</p>
     <ul>
       <li><a href="https://github.com/stars/Ramonperu/lists/administracion-de-azure" target="_blank">Administración de Azure</a></li>
       <li><a href="https://github.com/stars/Ramonperu/lists/google-cybersecurity-coursera" target="_blank">Google Cybersecurity Coursera</a></li>
