@@ -6,10 +6,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRjMGVwNjFuZHFrc2V5bTNwN3htNmRoZ2dtMTdrbXY1b3gybDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 <div align="left">
-- 🌱 I’m currently studying Cybersecurity.
--Check my different lists 
-
-</div>
+    - 🌱 I’m currently studying Cybersecurity.<br>
+- Check my lists https://github.com/stars/Ramonperu/lists/administracion-de-azure and https://github.com/stars/Ramonperu/lists/google-cybersecurity-coursera
+      </div>
 
 
 <div id="badges" align="center">
