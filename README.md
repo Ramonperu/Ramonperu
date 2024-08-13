@@ -7,6 +7,7 @@
 </div>
 <div align="left">
 - 🌱 I’m currently studying Cybersecurity.
+-Check my different lists 
 
 </div>
 
