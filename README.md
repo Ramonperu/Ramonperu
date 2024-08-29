@@ -6,9 +6,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRjMGVwNjFuZHFrc2V5bTNwN3htNmRoZ2dtMTdrbXY1b3gybDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 <div align="left">
-    - 🌱 I’m currently studying Cybersecurity.<br>
-- Check my lists https://github.com/stars/Ramonperu/lists/administracion-de-azure and https://github.com/stars/Ramonperu/lists/google-cybersecurity-coursera
+    - 🌱 I’m currently studying Cybersecurity.
+ <p> - Check my lists:</p>
+    <ul>
+      <li><a href="https://github.com/stars/Ramonperu/lists/administracion-de-azure" target="_blank">Administración de Azure</a></li>
+      <li><a href="https://github.com/stars/Ramonperu/lists/google-cybersecurity-coursera" target="_blank">Google Cybersecurity Coursera</a></li>
+    </ul>
       </div>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ramonperu.png" alt="TryHackMe">
 
 <div id="badges" align="center">
@@ -19,7 +24,6 @@
   <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ramonperu&style=flat-square&color=blue" alt=""/>
   </div>
-
 
   <div align="center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" />
