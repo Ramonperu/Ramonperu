@@ -9,7 +9,7 @@
     - 🌱 I’m currently studying Cybersecurity.<br>
 - Check my lists https://github.com/stars/Ramonperu/lists/administracion-de-azure and https://github.com/stars/Ramonperu/lists/google-cybersecurity-coursera
       </div>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ramonperu.png" alt="TryHackMe">
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ramonpr/">
