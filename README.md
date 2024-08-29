@@ -23,11 +23,7 @@
   <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ramonperu&style=flat-square&color=blue" alt=""/>
   </div>
-  <div>
-    <script src="https://tryhackme.com/badge/3435969"></script>
-
-
-  </div>
+ 
 
 
   <div align="center">
